@@ -1,5 +1,5 @@
-const url = "YOURDEPLOYURL" // TODO: replace this
-const studentName = "Dedi Rosadi" // TODO: replace this
-const studentId = "FE5701086" // TODO: replace this
+const url = "https://final-52e60.web.app" 
+const studentName = "Dedi Rosadi" 
+const studentId = "FE5701086" 
 
 export { url, studentName, studentId }
